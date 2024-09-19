@@ -13,7 +13,7 @@ Sockets Links.
 ### Client
 ```
 Developed by: SREE NIVEDITAA SARAVANAN
-Reg no: 212223240141
+Reg no: 212223230213
 import socket 
 s=socket.socket() 
 s.connect(('localhost',8000)) 
